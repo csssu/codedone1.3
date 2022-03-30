@@ -1,3 +1,8 @@
+
+/*
+	@author: Amir Aghazadeh
+*/
+
 import java.util.Scanner;
 
 public class ProblemC {
